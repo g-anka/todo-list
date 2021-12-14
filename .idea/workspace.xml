@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61efe3b8-06f6-49b0-b5a4-3d9b0d4e7fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/AddTodo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/TodoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/todoReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainPage.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/filterReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/AddTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/TodoList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

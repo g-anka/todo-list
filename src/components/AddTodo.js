@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-export const AddTodo = ({ addTodo }) => {
+export const AddTodo = ({ addTodo, toggleCompletedVisibility }) => {
     const [text, setText] = useState("");
     const onAddButtonClick = () => {
         addTodo(text);
@@ -15,6 +15,7 @@ export const AddTodo = ({ addTodo }) => {
         <>
             <input type="text" placeholder="Enter text here" value={text} onChange={onInputChange}/>
             <button type="button" onClick={onAddButtonClick} >Add ToDo</button>
+            <button type="button" onClick={ toggleCompletedVisibility } >Toggle completed</button>
         </>
     )
 };
